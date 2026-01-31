@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "ramp-app-dev-484215",
+    "staging": "ramp-app-staging-484215",
+    "training": "ramp-app-training",
+    "production": "ramp-app-prod"
+  }
+}
